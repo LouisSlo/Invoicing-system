@@ -1,16 +1,29 @@
-# This is a sample Python script.
-
-# Press ⌃R to execute it or replace it with your code.
-# Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
-
-
-def print_hi(name):
-    # Use a breakpoint in the code line below to debug your script.
-    print(f'Hi, {name}')  # Press ⌘F8 to toggle the breakpoint.
+from models.client import Client
+from models.invoice import Invoice, Item
+from services.invoice_manager import InvoiceManager
 
 
-# Press the green button in the gutter to run the script.
-if __name__ == '__main__':
-    print_hi('PyCharm')
+def main():
+    try:
+        # Create a client
+        my_client = Client("Tech Solutions Sp. z o.o.", "1234567890", "Warsaw, Marszałkowska 1")
 
-# See PyCharm help at https://www.jetbrains.com/help/pycharm/
+        # Create an invoice
+        my_invoice = Invoice("INV/2026/001", my_client)
+
+        # Add items
+        my_invoice.add_item(Item("Software License", 1000.0, 1))
+        my_invoice.add_item(Item("Consulting Hours", 250.0, 4))
+
+        # Display invoice
+        print(my_invoice)
+
+        # Save to file
+        InvoiceManager.save_to_json(my_invoice, "invoice.json")
+
+    except Exception as e:
+        print(f"Error: {e}")
+
+
+if __name__ == "__main__":
+    main()
