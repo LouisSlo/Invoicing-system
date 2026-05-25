@@ -1,0 +1,14 @@
+# Środowisko wirtualne
+.venv/
+venv/
+env/
+
+# Konfiguracja PyCharma
+.idea/
+
+# Pliki tymczasowe Pythona
+__pycache__/
+*.pyc
+
+# Systemowe
+.DS_Store
