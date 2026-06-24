@@ -4,223 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="036ee12c-0c9d-4274-aa03-9ed4674e3788" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/services/invoice_manager.py" afterDir="false" />
+    <list default="true" id="036ee12c-0c9d-4274-aa03-9ed4674e3788" name="Changes" comment="finished projeckt">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/bin/pip-3.14" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/INSTALLER" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/METADATA" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/RECORD" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/WHEEL" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/entry_points.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/licenses/AUTHORS.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/licenses/LICENSE.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.dist-info/top_level.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip-25.1.1.virtualenv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/__pip-runner__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/__pip-runner__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/build_env.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/build_env.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/autocompletion.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/autocompletion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/base_command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/cmdoptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/index_command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/main_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/main_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/progress_bars.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/progress_bars.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/cli/req_command.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/completion.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/freeze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/index.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/index.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/install.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/list.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/list.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/lock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/search.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/search.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/show.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/show.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/commands/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/configuration.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/configuration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/exceptions.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/exceptions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/index/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/index/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/index/package_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/index/package_finder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/locations/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/locations/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/_json.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/base.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_dists.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/metadata/importlib/_envs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/direct_url.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/link.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/link.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/pylock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/models/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/download.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/download.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/session.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/session.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/network/xmlrpc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_editable.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_editable.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/metadata_legacy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/build/wheel_legacy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/check.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/freeze.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/editable_legacy.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/editable_legacy.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/install/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/operations/prepare.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/pyproject.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/pyproject.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_dependency_group.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_install.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/req/req_uninstall.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/candidates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/factory.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/found_candidates.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/provider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/reporter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/resolution/resolvelib/resolver.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/self_outdated_check.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/appdirs.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/appdirs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/compatibility_tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/compatibility_tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/datetime.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/datetime.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/entrypoints.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/entrypoints.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/filetypes.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/filetypes.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/misc.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/packaging.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/packaging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/setuptools_build.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/setuptools_build.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/unpacking.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/unpacking.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/wheel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/utils/wheel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/vcs/git.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/wheel_builder.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_internal/wheel_builder.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/adapter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/caches/file_cache.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/controller.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/filewrapper.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/cachecontrol/heuristics.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/certifi/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/certifi/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/certifi/cacert.pem" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/__main__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_implementation.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_lint_dependency_groups.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_pip_wrapper.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/_toml_compat.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/dependency_groups/py.typed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/codec.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/codec.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/compat.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/compat.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/core.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/core.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/idnadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/idnadata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/intranges.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/intranges.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/package_data.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/package_data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/uts46data.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/idna/uts46data.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/ext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/msgpack/fallback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_elffile.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_manylinux.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/_tokenizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/licenses/_spdx.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/markers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/metadata.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/specifiers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/tags.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/utils.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/packaging/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/android.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/android.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/api.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/macos.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/macos.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/unix.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/unix.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/version.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/platformdirs/version.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/__main__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/__main__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/filter.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/filter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/filters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/filters/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatter.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatters/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/formatters/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexer.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/_mapping.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/_mapping.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/lexers/python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/modeline.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/plugin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/regexopt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/scanner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/sphinxext.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/style.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/styles/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/token.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/unistring.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pygments/util.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_impl.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/_in_process/_in_process.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/pyproject_hooks/py.typed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/requests/certs.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/requests/certs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/providers.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/providers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/reporters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/abstract.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/criterion.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/exceptions.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/resolvers/resolution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/resolvelib/structs.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_inspect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_null_file.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/_win32_console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/align.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/ansi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/cells.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/cells.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/color.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/console.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/default_styles.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/default_styles.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/diagnose.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/diagnose.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/filesize.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/filesize.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/highlighter.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/live.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/live.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/logging.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/logging.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/padding.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/padding.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/panel.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/panel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/pretty.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/pretty.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/progress.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/progress.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/progress_bar.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/progress_bar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/prompt.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/prompt.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/segment.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/segment.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/spinner.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/spinner.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/style.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/syntax.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/table.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/text.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/theme.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/traceback.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/rich/tree.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/_parser.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/_re.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli/_re.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/_writer.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/tomli_w/py.typed" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/truststore/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/truststore/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/truststore/_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/typing_extensions.py" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/typing_extensions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/lib/python3.14/site-packages/pip/_vendor/vendor.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/invoice.json" beforeDir="false" afterPath="$PROJECT_DIR$/invoice.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/client.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/client.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/invoice.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/invoice.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/utils/validators.py" beforeDir="false" afterPath="$PROJECT_DIR$/utils/validators.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -228,7 +18,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="EmbeddingIndexingInfo">
-    <option name="cachedIndexableFilesCount" value="7" />
+    <option name="cachedIndexableFilesCount" value="17" />
     <option name="fileBasedEmbeddingIndicesEnabled" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
@@ -241,13 +31,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "LouisSlo"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/LouisSlo/Invoicing-system.git",
+    "accountId": "a8616e39-0d7b-42da-936e-09b8bfa84d00"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3EDgsHPCEvFVVEHMhTxy7cIbIye" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -256,7 +58,9 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.invoice_manager.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.validators.executor": "Run",
     "RunOnceActivity.MCP Project settings loaded": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
@@ -271,6 +75,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
     "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
@@ -295,25 +100,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1779718759040</updated>
-      <workItem from="1779718760075" duration="5284000" />
+      <workItem from="1779718760075" duration="8600000" />
+      <workItem from="1779796199165" duration="1073000" />
+      <workItem from="1779958379280" duration="1349000" />
+      <workItem from="1780589522625" duration="13008000" />
+      <workItem from="1780652517807" duration="552000" />
+      <workItem from="1782291370707" duration="192000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/main.py</url>
-          <line>15</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="finished projeckt" />
+    <option name="LAST_COMMIT_MESSAGE" value="finished projeckt" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/InvoicingSystem$main.coverage" NAME="main Coverage Results" MODIFIED="1779730854323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InvoicingSystem$validators.coverage" NAME="validators Coverage Results" MODIFIED="1780644875817" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/InvoicingSystem$main.coverage" NAME="main Coverage Results" MODIFIED="1780645033813" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InvoicingSystem$invoice_manager.coverage" NAME="invoice_manager Coverage Results" MODIFIED="1779958417167" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/services" />
   </component>
 </project>

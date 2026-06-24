@@ -1,20 +1,15 @@
 {
-    "invoice_number": "INV/2026/001",
+    "invoice_number": "INV/2026/002",
     "client": {
-        "name": "Tech Solutions Sp. z o.o.",
-        "nip": "1234567890",
-        "address": "Warsaw, Marsza\u0142kowska 1"
+        "name": "Nevidia Sp",
+        "nip": "1234567899",
+        "address": "ul. Koryzkowa 12, Warszawa"
     },
     "items": [
         {
-            "name": "Software License",
-            "net_price": 1000.0,
-            "quantity": 1
-        },
-        {
-            "name": "Consulting Hours",
-            "net_price": 250.0,
-            "quantity": 4
+            "name": "Projekt Budowlany",
+            "net_price": 48500.0,
+            "quantity": 2
         }
     ]
 }

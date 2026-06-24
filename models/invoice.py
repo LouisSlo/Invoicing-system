@@ -33,23 +33,27 @@ class Invoice:
         self.items = []  # Collection: list to store invoice items
 
     def add_item(self, item: Item):
-        """Adds a new item to the invoice."""
         self.items.append(item)
 
     @property
     def total_net_amount(self) -> float:
-        """Calculates total net amount of the invoice using list comprehension."""
         return sum([item.total_net for item in self.items])
 
     @property
     def total_gross_amount(self) -> float:
-        """Calculates total gross amount of the invoice."""
         return sum([item.total_gross for item in self.items])
 
     def __str__(self):
-        items_str = "\n".join([str(item) for item in self.items])
+        sorted_items = sorted(self.items, key=lambda item: item.net_price)
+
+        items_str = "\n".join([str(item) for item in sorted_items])
         return (f"Invoice Number: {self.invoice_number}\n"
                 f"Client: {self.client.name}\n"
                 f"Items:\n{items_str}\n"
                 f"Total Net: {self.total_net_amount:.2f} PLN\n"
                 f"Total Gross: {self.total_gross_amount:.2f} PLN")
+
+    def get_items_above_price(self, min_price: float):
+        for item in self.items:
+            if item.net_price > min_price:
+                yield item
